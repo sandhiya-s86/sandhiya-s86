@@ -24,6 +24,8 @@
 </tr>
 </table>
 
+
+
 <!-- Dynamic Typing Animation -->
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=700&height=50&lines=AI+Engineering+%7C+Full-Stack+Development+%7C+Open+Source;Building+EWW+%E2%80%94+Enterprise+Wide+Web+%F0%9F%9A%80;SRMIST+%7C+9.65+CGPA+%7C+IIT+Ideathon+Winner+%F0%9F%8F%86;Passionate+about+AI%2C+LLMs+%26+Developer+Tooling" alt="Typing SVG" />
