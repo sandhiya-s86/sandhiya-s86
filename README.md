@@ -169,6 +169,8 @@ const sandhiya = {
 ### Varuna Oceanix (SIH 2025)
 **Ocean Hazard Analytics Dashboard**
 
+🔗 **[Live Demo](https://sandhiya-s86.github.io/varuna-oceanix/)** · [Source](https://github.com/Mutthuram03/VARUNA_OCEANIX_)
+
 `React.js` `Node.js` `Firebase` `Python` `MongoDB` `AWS`
 
 - Platform for Ministry of Earth Sciences
